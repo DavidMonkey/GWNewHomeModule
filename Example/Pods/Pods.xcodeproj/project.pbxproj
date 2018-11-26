@@ -41,24 +41,24 @@
 		101236ED212D42E6089B63817E220979 /* Pods-GWNewHomeModule_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GWNewHomeModule_Example-frameworks.sh"; sourceTree = "<group>"; };
 		12CC88F0F12F4282B5C4692FDA61BA4C /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = GWNewHomeModule/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		2321462CBDF29B599972B3BF181FB9FD /* Pods-GWNewHomeModule_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GWNewHomeModule_Tests-dummy.m"; sourceTree = "<group>"; };
-		2E8618938DC214B6FCEFDB796BD35EC1 /* GWNewHomeModule.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = GWNewHomeModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2E8618938DC214B6FCEFDB796BD35EC1 /* GWNewHomeModule.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = GWNewHomeModule.podspec; sourceTree = "<group>"; };
 		321AB9B8BF552BFD3557F8B24A74DE66 /* GWNewHomeModule-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GWNewHomeModule-umbrella.h"; sourceTree = "<group>"; };
 		3B7C604E4A988C00E62AE17F68629E0D /* Pods-GWNewHomeModule_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GWNewHomeModule_Tests.modulemap"; sourceTree = "<group>"; };
-		3C723434289D89891842B4C36B950F57 /* Pods_GWNewHomeModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GWNewHomeModule_Example.framework; path = "Pods-GWNewHomeModule_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C723434289D89891842B4C36B950F57 /* Pods_GWNewHomeModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GWNewHomeModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		44FF64467BEEBB7B33FA5153293BD530 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BC4780A480893749C23D90DD00FF7BF /* GWNewHomeModule.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GWNewHomeModule.xcconfig; sourceTree = "<group>"; };
-		5D6C64616B67E76E3B78A4CD4ECA037F /* Pods_GWNewHomeModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GWNewHomeModule_Tests.framework; path = "Pods-GWNewHomeModule_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6955DFE2704B6E8AFC99DF8EF8CD2A5B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		5D6C64616B67E76E3B78A4CD4ECA037F /* Pods_GWNewHomeModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GWNewHomeModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6955DFE2704B6E8AFC99DF8EF8CD2A5B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		71959771F4EEA55F0ABD4A54C28E4197 /* Pods-GWNewHomeModule_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GWNewHomeModule_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		75DE8B74A0DBED0EEF08F93A1C003F63 /* Pods-GWNewHomeModule_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GWNewHomeModule_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		8113FEFBB1BC88EB4ED358E137BD329B /* GWNewHomeModule.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GWNewHomeModule.framework; path = GWNewHomeModule.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8113FEFBB1BC88EB4ED358E137BD329B /* GWNewHomeModule.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GWNewHomeModule.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		81A88BA4A3554FEE0166E238BA6B0C8C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		825E7DAC99085D6DC825A64129642BAE /* GWNewHomeModule-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GWNewHomeModule-dummy.m"; sourceTree = "<group>"; };
 		8467C2B1AF00B4CC8F12D7D90C44F994 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87B65023BCC853CC3A7073AF470D7968 /* Pods-GWNewHomeModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GWNewHomeModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		91755D53C0D849C4F513F8A7D793BE7A /* GWNewHomeModule.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GWNewHomeModule.modulemap; sourceTree = "<group>"; };
 		93418EA325DA27BF12151424AE9EB655 /* Pods-GWNewHomeModule_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GWNewHomeModule_Example-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95151EDFC92F8A758B41475BAF19C507 /* Pods-GWNewHomeModule_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GWNewHomeModule_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		9D9D3FED94B3AD3756021AFE7A3C79B6 /* Pods-GWNewHomeModule_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GWNewHomeModule_Tests-umbrella.h"; sourceTree = "<group>"; };
 		AC2FEA0D2B52A88D06F59CC6D0EF7EBA /* GWNewHomeModule-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GWNewHomeModule-prefix.pch"; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		EACC7AAE056CE7393EE619F03ABCDA66 /* Pods-GWNewHomeModule_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GWNewHomeModule_Tests-resources.sh"; sourceTree = "<group>"; };
 		F8A0E05A6066052C32C24A5178CDEA5D /* Pods-GWNewHomeModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GWNewHomeModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FACAD6B8611D7238F2B5197E1D6221D1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		FACAD6B8611D7238F2B5197E1D6221D1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -629,8 +629,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
