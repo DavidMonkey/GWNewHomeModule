@@ -1,0 +1,22 @@
+{
+  "name": "GWNewHomeModule",
+  "version": "0.1.0",
+  "summary": "A short description of GWNewHomeModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liguangwei/GWNewHomeModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liguangwei": "1195297551@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liguangwei/GWNewHomeModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GWNewHomeModule/Classes/**/*"
+}

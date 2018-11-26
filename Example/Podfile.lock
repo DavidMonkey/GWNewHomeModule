@@ -1,0 +1,16 @@
+PODS:
+  - GWNewHomeModule (0.1.0)
+
+DEPENDENCIES:
+  - GWNewHomeModule (from `../`)
+
+EXTERNAL SOURCES:
+  GWNewHomeModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWNewHomeModule: 81fc0b2189c19b54bb462ca6d5ee651bac821271
+
+PODFILE CHECKSUM: 0c349913e6cf247ecb801f7b8bed70a9dcbdd16c
+
+COCOAPODS: 1.5.3

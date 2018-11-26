@@ -1,0 +1,6 @@
+framework module GWNewHomeModule {
+  umbrella header "GWNewHomeModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
