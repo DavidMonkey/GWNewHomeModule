@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GWNewHomeModule_Example' do
+  pod 'GWNewHomeModule', :path => '../'
+
+  target 'GWNewHomeModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
